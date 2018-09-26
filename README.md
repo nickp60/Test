@@ -2,4 +2,5 @@
 # Wednesday
 # Emacs test
 # merging
-# lskdjflksdjflksdjf
+# lskdjflksdjflkf
+# conflicts
